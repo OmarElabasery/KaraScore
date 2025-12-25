@@ -65,3 +65,7 @@ kara-score/
 ├── tests/                   # Unit tests
 ├── requirements.txt
 └── README.md
+
+## 📄 License
+
+Licensed under the Apache License 2.0.
