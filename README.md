@@ -65,6 +65,7 @@ kara-score/
 ├── tests/                   # Unit tests
 ├── requirements.txt
 └── README.md
+```
 
 ## 📄 License
 
